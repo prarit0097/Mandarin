@@ -1,0 +1,2 @@
+# Mandarin
+Mandarin=From this we can manage customers measurements like we take only one time measurements for an customer and next time no need to take again measurement of that person.We can manage  all customers details &amp; customers pending/deliverd work details also.Best feature is DAILY EXPENSES from this we manage emploies daily expense &amp; also shop daily expense.We can also check all emploies details &amp; salleries  details.Genrate bills &amp; also print the bills.Software is fully password protected.
